@@ -24,23 +24,19 @@ class AndisheTavkoli():
 if __name__ == '__main__':
     me = Andishe Tavakoli()
 ```
-## Languages and Tools:
 <br>
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,elasticsearch,postgres,redis,selenium,tensorflow,pytorch,scala,gitlab,anaconda,aws,css,github,html,linux,mongodb,py,vscode&perline=14" />
+  </a>
 </p>
+
 
 
 <br>
